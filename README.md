@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm jaydeep singh rathore</h1>
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV--5QlI17JIxa8XsbkwO0_-UJ-gZjYbO9bA&s)<h1 align="center">Hi 👋, I'm jaydeep singh rathore</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codyboy20&label=Profile%20views&color=0e75b6&style=flat" alt="codyboy20" /> </p>
 
