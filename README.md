@@ -7,11 +7,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeboy20&label=Profile%20views&color=0e75b6&style=flat" alt="codeboy20" /> </p>
 
 
-- 🔭 I’m currently working on **Quiz App**
+- 🔭 I’m currently working on **Major project**
 
 - 🌱 I’m currently learning **Reactjs , Nextjs**
 
-- 💬 Ask me about **Html , Css , Javascript , React , Bootstrap**
+- 💬 Ask me about **Html , Css , Javascript , React , Bootstrap , Nextjs , Nodejs , Express js , Java , Database**
 
 - 📫 How to reach me **jaydeepsinghrathore904@gmail.com**
 
