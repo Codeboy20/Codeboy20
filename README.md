@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeboy20&label=Profile%20views&color=0e75b6&style=flat" alt="codeboy20" /> </p>
 
 
-- 🔭 I’m currently working on **Major project**
+- 🔭 I’m currently working on **AarogyaCraft**
 
 - 🌱 I’m currently learning **Reactjs , Nextjs**
 
